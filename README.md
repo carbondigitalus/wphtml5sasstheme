@@ -1,4 +1,5 @@
-# wphtml5sasstheme
+# WP HTML 5 SASS Theme
+
 HTML 5 Boilerplate Theme with SASS
 
 <h3>Includes</h3>
